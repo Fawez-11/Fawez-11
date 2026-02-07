@@ -96,15 +96,13 @@ developer.sayHi();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fawez-11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fawez-11&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawez-11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawez-11&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fawez-11&theme=radical)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fawez-11&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawez-11&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fawez-11&theme=radical)
 
 </div>
 
