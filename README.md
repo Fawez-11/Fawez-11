@@ -12,9 +12,9 @@
 
 ## 🎮 Catch the Bug! (Play the Snake Game)
 
-Want a break from coding? **[Play Snake Game →](https://YOUR_USERNAME.github.io/YOUR_USERNAME/snake-game/)** 🐍
+Want a break from coding? **[Play Snake Game →](https://Fawez-11.github.io/Fawez-11/snake-game/)** 🐍
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fawez-11/Fawez-11/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 *The snake eats my GitHub contributions! 🎯*
 
@@ -26,7 +26,7 @@ Want a break from coding? **[Play Snake Game →](https://YOUR_USERNAME.github.i
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "fawez",
   role: "Full Stack JavaScript Developer",
   location: "🌍 Earth",
   currentFocus: "Building scalable web & mobile applications",
@@ -96,22 +96,22 @@ developer.sayHi();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fawez-11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawez-11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawez-11&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fawez-11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -132,12 +132,12 @@ developer.sayHi();
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
+<a href="https://github.com/Fawez-11/REPO1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fawez-11&repo=REPO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
+<a href="https://github.com/Fawez-11/REPO2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fawez-11&repo=REPO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -182,10 +182,10 @@ developer.sayHi();
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fawez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawez@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fawez-11)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fawez-11)
 
 </div>
 
@@ -206,9 +206,9 @@ developer.sayHi();
 <div align="center">
 
 ### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Fawez-11&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 
-### ⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with 💖
+### ⭐ From [Fawez-11](https://github.com/Fawez-11) with 💖
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
