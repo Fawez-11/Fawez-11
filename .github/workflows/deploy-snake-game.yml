@@ -3,8 +3,6 @@ name: Deploy Snake Game
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -19,25 +17,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-    
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-    
-    - name: Install dependencies
-      run: npm install
-      if: hashFiles('package.json') != ''
-    
-    - name: Build project
-      run: npm run build
-      if: hashFiles('package.json') != ''
     
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
-        build_dir: dist
+        build_dir: .
+        target_branch: gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
