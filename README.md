@@ -119,23 +119,7 @@ developer.sayHi();
 - 🚀 Implementing real-time features with **Socket.io**
 - 🎨 Crafting beautiful, responsive UIs that users love
 
----
 
-## 📌 Pinned Projects Highlights
-
-<div align="center">
-
-<a href="https://github.com/Fawez-11/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fawez-11&repo=REPO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/Fawez-11/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fawez-11&repo=REPO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
 
 ## 🎨 Fun Easter Egg Section
 
