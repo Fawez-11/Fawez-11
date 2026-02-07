@@ -106,12 +106,7 @@ developer.sayHi();
 
 </div>
 
-<div align="center">
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=fawez-11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>>
 
 ---
 
