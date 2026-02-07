@@ -7,37 +7,31 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
-  
-  # Run on every push to main
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     
     steps:
-      # Checkout the repository
-      - name: Checkout
-        uses: actions/checkout@v3
-      
       # Generate the snake animation
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Fawez-11
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       # Push the generated files to the output branch
-      - name: Push to output branch
+      - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
