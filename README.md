@@ -96,24 +96,24 @@ developer.sayHi();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fawez-11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=fawez-11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawez-11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawez-11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawez-11&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fawez-11&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Fawez-11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=fawez-11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
-</div>
+</div>>
 
 ---
 
