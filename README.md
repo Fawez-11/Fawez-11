@@ -14,7 +14,7 @@
 
 Want a break from coding? **[Play Snake Game →](https://Fawez-11.github.io/Fawez-11/snake-game/)** 🐍
 
-<img src="https://raw.githubusercontent.com/Fawez-11/Fawez-11/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/Fawez-11/Fawez-11/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 *The snake eats my GitHub contributions! 🎯*
 
